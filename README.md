@@ -1,3 +1,4 @@
+# Restaurant-Website
 Create a website for your Restaurant. It should include all of the following:
 1. Home Page:
 a. It should include 3 buttons, for the Menu of the restaurant, Contact Us page and an About us page.
